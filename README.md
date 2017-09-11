@@ -1,5 +1,5 @@
 # Full page background shader
-Coloured background shader using CSS3.
+A simple coloured background shader using CSS3.
 
 
 ## Selector
